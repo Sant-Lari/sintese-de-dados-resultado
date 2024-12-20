@@ -1,0 +1,1 @@
+# sintese-de-dados-resultado
